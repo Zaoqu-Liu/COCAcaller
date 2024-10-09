@@ -1,0 +1,16 @@
+Package: COCAcaller
+Type: Package
+Title: Identify COCA subtype from miRNA expression in chronic pancreatitis
+Author: Zaoqu Liu [aut, cre] (<https://orcid.org/0000-0002-0452-742X>)
+Maintainer: Zaoqu Liu <liuzaoqu@163.com>
+Authors@R: c(person("Zaoqu", "Liu", email = "liuzaoqu@163.com", role = c("aut", "cre"),comment=c(ORCID="0000-0002-0452-742X")))
+Description: Identify COCA subtype from miRNA expression in chronic pancreatitis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+ByteCompile: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: R (>= 3.3.0)
+Version: 1.0.0
+LazyData: true
+NeedsCompilation: no
